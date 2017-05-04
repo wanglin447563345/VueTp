@@ -5,6 +5,6 @@ class Index
 {
     public function index()
     {
-        return '谭鸡鸡谭鸡鸡';
+        return '谭鸡鸡qsd鸡鸡';
     }
 }
