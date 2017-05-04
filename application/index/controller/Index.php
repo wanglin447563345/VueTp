@@ -5,6 +5,6 @@ class Index
 {
     public function index()
     {
-        return '小马鞭';
+        return 'cock tan';
     }
 }
