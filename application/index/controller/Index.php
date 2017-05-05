@@ -5,6 +5,6 @@ class Index
 {
     public function index()
     {
-        return 'cock tan';
+        return 'cock tan & dick tan & penis tan';
     }
 }
